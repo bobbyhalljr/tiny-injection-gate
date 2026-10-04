@@ -96,7 +96,7 @@ This is a teaching gate.
 ## Read more
 
 - Dev.to: [One Email Hijacked an AI Agent. Build a Tiny Prompt Injection Gate in TypeScript.](https://dev.to/bobbyhalljr/one-email-hijacked-an-ai-agent-build-a-tiny-prompt-injection-gate-in-typescript-474b)
-- Substack: [One Email Hijacked an AI Agent. Build a Tiny Prompt Injection Gate in TypeScript.](SUBSTACK_URL)
+- Substack: [One Email Hijacked an AI Agent. Build a Tiny Prompt Injection Gate in TypeScript.](https://bobbyhalljr.substack.com/p/one-email-hijacked-an-ai-agent-build)
 - Sources: [Salt Labs, Oct 1, 2026](https://salt.security/blog/how-we-hijacked-an-ai-agent-with-a-single-email), [Meta, Agents Rule of Two](https://ai.meta.com/blog/practical-ai-agent-security/), [Simon Willison, The lethal trifecta](https://simonwillison.net/2025/jun/16/the-lethal-trifecta/)
 
 ## License
